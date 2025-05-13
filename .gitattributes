@@ -1,1 +1,3 @@
 C:/Users/pedro/Desktop/Documentos_uni/Cadeiras_Uni/2ºA_2º_Semestre/AC/Final[[:space:]]Project/datasets/diabetes_012_health_indicators_BRFSS2015.csv filter=lfs diff=lfs merge=lfs -text
+datasets/diabetes_binar_health_indicators_BRFSS2015.csv filter=lfs diff=lfs merge=lfs -text
+datasets/diabetes_binary_health_indicators_BRFSS2015.csv filter=lfs diff=lfs merge=lfs -text
