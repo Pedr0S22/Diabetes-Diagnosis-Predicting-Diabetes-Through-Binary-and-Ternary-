@@ -22,9 +22,9 @@ The primary distinction between the two datasets is the target labels, which var
 You must have python 3.11.5 version and jupyter kernel for this version installed, aswell as the following packages:
 
 - **Scikit-Learn, TensorFlow, Optuna:** Utilized for constructing, training, optimizing, and evaluating machine learning models.
-- **Pandas, NumPy, Itertools, Collections:** Used for data manipulation, preprocessing, and feature engineering tasks.
+- **Pandas, NumPy, Itertools, Collections, Imblearn:** Used for data manipulation, preprocessing, and feature engineering tasks.
 - **Copy:** Used for copying lists without conflicts.
-- **SciPy:** Utilized for statistical analysis in exploratory data analysis (EDA).
+- **SciPy (stats):** Utilized for statistical analysis in exploratory data analysis (EDA).
 - **Matplotlib, Seaborn:** Used for visualizing data and understanding trends in EDA.
 
 ## Further Information
