@@ -31,7 +31,7 @@ You must have python 3.11.5 version and jupyter kernel for this version installe
 - **SciPy (stats):** Utilized for statistical analysis in exploratory data analysis (EDA).
 - **Matplotlib, Seaborn:** Used for visualizing data and understanding trends in EDA.
 
-Additionally, download the dataset from the link provided above and place it in the same directory as this project.
+Additionally, download the datasets from the link provided above and place them in the same directory as this project.
 
 ## Further Information
 
